@@ -69,7 +69,7 @@ This is a single-page portfolio website for Trejah, a singer, actress, and produ
 - Use lazy loading for media content if needed
 
 ## Future Enhancements
-- Online payment integration (mentioned in booking section)
+- Online payment integration (mentioned in the booking section of the website)
 - Backend for form submission and booking management
 - Email notifications for booking requests
 - Gallery expansion and filtering options
@@ -91,6 +91,7 @@ This is a single-page portfolio website for Trejah, a singer, actress, and produ
 6. Consider mobile users as a primary audience
 
 ## Contact Information
+Official social media channels that are linked in the website:
 - **Instagram**: https://www.instagram.com/trejahhh
 - **YouTube**: https://youtube.com/@trejahbostic
 
